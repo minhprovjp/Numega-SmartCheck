@@ -30,7 +30,7 @@ SmartCheck checks all API calls, memory allocations and deallocations, Windows m
 
 ***Important Notes***
 
-    Creator: I (minhprovjp) am not the original author of this software. It was created by 	NuMega.
+    Creator: I (minhprovjp) am not the original author of this software. It was created by NuMega.
     Your personal data and activities are never collected or stored.
     Your business ideas and strategies remain fully protected.
 
