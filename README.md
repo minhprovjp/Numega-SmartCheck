@@ -1,7 +1,8 @@
 # Numega-SmartCheck
 
 Numega SmartCheck v6.2.0.1286 RC2 
-This is repository archive Numega SmartCheck v6.2.0.1286 RC2 the original file was downloaded from [here](https://forum.tuts4you.com/files/file/2061-numega-smartcheck/).
+
+This is repository archive Numega SmartCheck v6.2.0.1286 RC2. The original file was downloaded from [here](https://forum.tuts4you.com/files/file/2061-numega-smartcheck/) with a serial key to activate because the author's website was down. Read readme.txt and sn.txt.
 
 ## **About This File**
 
