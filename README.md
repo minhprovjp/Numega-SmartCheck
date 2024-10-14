@@ -1,4 +1,4 @@
-# Numega-SmartCheck
+# Numega SmartCheck
 
 Numega SmartCheck v6.2.0.1286 RC2 
 
