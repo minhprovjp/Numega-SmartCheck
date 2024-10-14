@@ -1,8 +1,10 @@
 # Numega-SmartCheck
+
 Numega SmartCheck v6.2.0.1286 RC2 
 This is repository archive Numega SmartCheck v6.2.0.1286 RC2 the original file was downloaded from [here](https://forum.tuts4you.com/files/file/2061-numega-smartcheck/).
 
 ##**About This File**
+
 SmartCheck is a run-time debugging tool that addresses the most problematic conditions encountered by Visual Basic developers:
 
 - Fatal run-time errors that are cryptic and hard-to-solve
