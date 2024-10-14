@@ -28,7 +28,7 @@ SmartCheck checks all API calls, memory allocations and deallocations, Windows m
 - Resource leaks, including Windows-specific handles
 - Windows-specific errors in Win32APIs, ODBC, DirectX, and COM/OLE APIs 
 
-## ***Important Notes***
+***Important Notes***
 
     Creator: I (minhprovjp) am not the original author of this software. It was created by 	NuMega.
     Your personal data and activities are never collected or stored.
