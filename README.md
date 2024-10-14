@@ -3,7 +3,7 @@
 Numega SmartCheck v6.2.0.1286 RC2 
 This is repository archive Numega SmartCheck v6.2.0.1286 RC2 the original file was downloaded from [here](https://forum.tuts4you.com/files/file/2061-numega-smartcheck/).
 
-##**About This File**
+## **About This File**
 
 SmartCheck is a run-time debugging tool that addresses the most problematic conditions encountered by Visual Basic developers:
 
@@ -14,7 +14,7 @@ SmartCheck is a run-time debugging tool that addresses the most problematic cond
 - Problematic value coercions
 - Errors in components, such as ActiveX controls, used by your program
 
-**How SmartCheck Works**
+## **How SmartCheck Works**
 
 As you run a program (EXE), SmartCheck runs in the background monitoring it continuously, and capturing program events and errors. During program execution, you have the option to disable and enable event reporting at will. This allows you to capture information relevant to testing your program, while eliminating the overhead of unnecessary event reporting.
 
@@ -28,7 +28,7 @@ SmartCheck checks all API calls, memory allocations and deallocations, Windows m
 - Resource leaks, including Windows-specific handles
 - Windows-specific errors in Win32APIs, ODBC, DirectX, and COM/OLE APIs 
 
-##***Important Notes***
+## ***Important Notes***
 
     Creator: I (minhprovjp) am not the original author of this software. It was created by 	NuMega.
     Your personal data and activities are never collected or stored.
